@@ -1,0 +1,8 @@
+{
+  "name": "despesas_diarias",
+  "slug": "despesas_diarias",
+  "plugins": [
+    "expo-sqlite",
+    "expo-router"
+  ]
+}
