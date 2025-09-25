@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "entryPoint": "./app/index.js"
+  },
+  "name": "telas",
+  "slug": "telas",
+  "plugins": [
+    "expo-router"
+  ]
+}
